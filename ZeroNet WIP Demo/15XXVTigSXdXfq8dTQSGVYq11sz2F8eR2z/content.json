@@ -1,0 +1,40 @@
+{
+ "address": "15XXVTigSXdXfq8dTQSGVYq11sz2F8eR2z",
+ "address_index": 76292633,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "",
+ "files": {
+  "dbschema.json": {
+   "sha512": "088fb1544eb586849fc954bfcff1569ba53e2898ebb66665db4723fb98f51c6a",
+   "size": 1074
+  },
+  "index.html": {
+   "sha512": "12bbb6cdfcc15fccf86ac7a664faa63fe7665c9618427a5a7186c90425fc42f6",
+   "size": 4510
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "586e1e67a6739ac0bbfdc83b8636c98abc969d42907df38ebde8ec325156f4b7",
+   "size": 3647
+  }
+ },
+ "ignore": "data/.*",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1553213027,
+ "postmessage_nonce_security": true,
+ "signers_sign": "GxDRPeg8DIS0Yf977Vie+BgutLtQz4myZtgccaBQoEN4CuRqH/uhzH+nM5Y0B9/UxOR8gYTr7HT3Je98ScdW85I=",
+ "signs": {
+  "15XXVTigSXdXfq8dTQSGVYq11sz2F8eR2z": "HCRvw1hkjJdY5yQuOahyNICdnnZnfSGaoCaYxvpMHzrSInUYupbwc9Rvb1xkYCTiE+MDFBr0yVpaVMV9AaiT4xM="
+ },
+ "signs_required": 1,
+ "title": "My ZeroChat tutorial",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.6.5"
+}

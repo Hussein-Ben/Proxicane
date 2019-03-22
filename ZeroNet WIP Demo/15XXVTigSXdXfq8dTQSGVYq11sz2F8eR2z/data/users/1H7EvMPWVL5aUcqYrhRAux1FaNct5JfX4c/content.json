@@ -1,0 +1,17 @@
+{
+ "address": "15XXVTigSXdXfq8dTQSGVYq11sz2F8eR2z",
+ "cert_auth_type": "web",
+ "cert_sign": "G7PLmMzeZyDgYbYOE8f4yJ7AeuHMPas3/bXcS2rRSjCXDXZxZFou3ZDTNC/IXcizNTh0n5Pka7zAoMyfNXMplZ4=",
+ "cert_user_id": "berberboi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "47704cbd282804fdb9219d2531b9bab43a0c0ed5fda85308d99af29d659b2851",
+   "size": 322
+  }
+ },
+ "inner_path": "data/users/1H7EvMPWVL5aUcqYrhRAux1FaNct5JfX4c/content.json",
+ "modified": 1553209751,
+ "signs": {
+  "1H7EvMPWVL5aUcqYrhRAux1FaNct5JfX4c": "G9kPuYTuzqcwz1/3CmYC+r34LknMB8olJ37OcGCfIFUgb4aatdNb0oJkRxuCUSdvAzIJU6l/pJnNlCN9LTf30Cg="
+ }
+}
