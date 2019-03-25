@@ -8,3 +8,5 @@ https://www.reddit.com/r/reactnative/comments/6zmrf8/access_the_ambient_light_se
 rnib and other blind charties have enough money to fund braille technology such as blitab but do not. https://beta.charitycommission.gov.uk/charity-details/?subid=0&regid=226227 look at their documents. mostly focus on giving advice - tecnology would render them useless. its reminds me of this event http://www.afb.org/LouisBrailleMuseum/braillegallery.asp?GalleryID=49
 
 new systems: http://www.theeliaidea.com/
+
+Experimented with decentralised websites ( sites that are not served by a central server, served normally using peer to peer networks), these test sites i Built as well as the research show that developing websites is not the key issue here, there needs to be a Operating system tailored to a dentralized web and the expression of memes
