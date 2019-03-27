@@ -1,6 +1,8 @@
-﻿# Gondola Operating System Packages required:
+# Gondola Operating System Packages required (need to experiment):
 
 fluxbox is the window manager by default
+software must be easy to use and simple
+
 ## Shell
 
  - [ ] fish shell [http://fishshell.com/] 
@@ -26,19 +28,41 @@ fluxbox is the window manager by default
 
 ## office suite
 
- - [ ] Libreoffice
+ - [ ] Libreoffice (windows95 themed)
+ 
+## screen recorder
+- [ ] OBS studio
+
+## internet radio
+
+## vocaloid software
 
 ## video editor
 
+- [ ] shotcut
+- [ ] flowblade
+- [ ] kdenlive
+
 ## sound editor/sampler
+- [ ] audicity
 
 ## DAW
 
 ## MIDI stuff
 
+## DJ software
+
+## classic game emulator/roms
+
 ## text editor environment
 
- - [ ] VScode
  - [ ] atom
+ - [ ] Nano as backup
 
+## GUI for adding/removing/updating programs
+- [ ] synaptic
+
+## vidoe/movie/anime player
+
+- [ ] vlc
 
