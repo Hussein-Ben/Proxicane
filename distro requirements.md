@@ -66,3 +66,5 @@ software must be easy to use and simple
 
 - [ ] vlc
 
+## pdf/epup viewer
+
