@@ -10,3 +10,7 @@ rnib and other blind charties have enough money to fund braille technology such 
 new systems: http://www.theeliaidea.com/
 
 Experimented with decentralised websites ( sites that are not served by a central server, served normally using peer to peer networks), these test sites i Built as well as the research show that developing websites is not the key issue here, there needs to be a Operating system tailored to a dentralized web and the expression of memes
+
+slax was a potential base for this OS, slax: author forget to add wifi support, to unstable for anyone to use
+
+tails has also failed due to debian I get this error with my machine https://community.parrotsec.org/t/parrot-os-bios-contains-wgds-but-no-wrds/6201 its impossible to even start Tails without it restarting itself
