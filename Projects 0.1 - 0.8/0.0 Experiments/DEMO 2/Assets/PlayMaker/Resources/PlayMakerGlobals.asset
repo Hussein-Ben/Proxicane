@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 42938266, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
+  m_Name: PlayMakerGlobals
+  m_EditorClassIdentifier: 
+  variables:
+    floatVariables:
+    - useVariable: 1
+      name: x_pos
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: z_pos
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    intVariables: []
+    boolVariables:
+    - useVariable: 1
+      name: Picked_Object
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: button_down
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    stringVariables: []
+    vector2Variables: []
+    vector3Variables:
+    - useVariable: 1
+      name: Picked_GameObject_Vector
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {x: 0, y: 0, z: 0}
+    colorVariables: []
+    rectVariables: []
+    quaternionVariables: []
+    gameObjectVariables:
+    - useVariable: 1
+      name: Picked GameObject
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {fileID: 0}
+    objectVariables: []
+    materialVariables: []
+    textureVariables: []
+    arrayVariables: []
+    enumVariables: []
+    categories:
+    - 
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000
+  events:
+  - RESR
+  - RESET
