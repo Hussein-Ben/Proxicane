@@ -1,0 +1,5 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"M1",1," Vibration Motor"
+"DIST1",1," Ultrasonic Distance Sensor"
+"BAT1",1," 9V Battery"
