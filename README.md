@@ -29,4 +29,4 @@ The Proxicane project is a proof of concept device that can provide low-cost obj
 
 [*Optional*] you can use Duct tape to secure Proxicane and Velcro tape to secure the Proxicane unit to clothing and equipment. You are free to build and design your case for the Proxicane unit.
 
-## More detailed information on the Proxicane Project can be found in this [report](https://github.com/Hussein-Ben/Proxicane/blob/master/Final%20Report/HUSSEIN%20FARKHANI%20Hfark001%20FINAL%20REPORT.docx) or you can explore this repository. 
+## More detailed information on the Proxicane Project can be found in this [report](https://github.com/Hussein-Ben/Proxicane/blob/master/Final%20Report/HUSSEIN%20FARKHANI%20Hfark001%20FINAL%20REPORT.pdf) or you can explore this repository. 
