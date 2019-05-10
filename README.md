@@ -2,6 +2,7 @@
 
 The Proxicane project is a proof of concept device that can provide low-cost object avoidance for blind/partially sighted people. The Project focuses on using the lower legs of a blind/partially sighted person rather than the hands and arms (which most other projects focus on) thereby freeing the user’s hands and arms for other purposes. The Proxicane project is also intended to replace the cane a blind/partially sighted person typically uses. The entire project including the hardware and software is fully open source.
 
+![A Proxicane unit](https://github.com/Hussein-Ben/Proxicane/blob/master/Project%200.9/FINAL/Developement%20images/20190416_162943_HDR.jpg)
 
 ## Instructions for building a Proxicane Unit
 
