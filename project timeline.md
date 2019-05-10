@@ -22,5 +22,4 @@ https://hfark001.blogspot.com/
 
 ## 0.8 Proxicane: using ambient light sensors on mobile phones
  
-## 0.9 Current, standalone Arduino Hybrid Collision detector (HCD). 
-
+## 0.9 Current, standalone Arduino Collision detection system (an update of Proxicane) 
